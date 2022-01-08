@@ -1,0 +1,59 @@
+User: Imported 51 locations.
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: Sydney
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 153 Mon 10:30   Departure to Dubai
+ 100 Mon 12:00   Departure to Jakarta
+  89 Mon 19:00   Departure to Hobart
+  90 Mon 21:30   Departure to Hobart
+ 161 Tue 04:00   Departure to AliceSprings
+  69 Tue 05:00   Departure to LosAngeles
+   0 Wed 09:00   Departure to Beijing
+   5 Wed 10:00   Departure to AbuDhabi
+ 148 Wed 11:00   Departure to LosAngeles
+ 149 Wed 13:00   Departure to Dubbo
+ 150 Wed 18:00   Departure to Orange
+ 125 Fri 14:00   Departure to AbuDhabi
+ 113 Sat 04:00   Departure to Perth
+ 114 Sat 06:00   Departure to Perth
+ 112 Sat 09:00   Departure to Perth
+
+User: Perth
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 132 Mon 00:00   Departure to Johannesburg
+ 158 Mon 15:05   Departure to AliceSprings
+ 157 Mon 16:05   Departure to AliceSprings
+ 126 Fri 13:00   Departure to AbuDhabi
+
+User: Beijing
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 129 Wed 20:00   Departure to Hanoi
+   1 Wed 22:25   Departure to Jakarta
+   2 Wed 23:25   Departure to Hanoi
+   4 Thu 00:25   Departure to Vladivostok
+ 128 Fri 20:00   Departure to Hanoi
+
+User: This location does not exist in the system.
+
+User: This location does not exist in the system.
+
+User: Beijing
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 129 Wed 20:00   Departure to Hanoi
+   1 Wed 22:25   Departure to Jakarta
+   2 Wed 23:25   Departure to Hanoi
+   4 Thu 00:25   Departure to Vladivostok
+ 128 Fri 20:00   Departure to Hanoi
+
+User: Application closed.

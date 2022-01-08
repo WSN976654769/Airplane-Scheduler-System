@@ -1,0 +1,8 @@
+location import locations.csv
+flight import flights6.csv
+travel sydney london stopovers
+travel sydney london stopovers -1
+travel sydney london stopovers 2
+travel sydney london stopovers 100
+travel sydney london stopovers abc
+exit

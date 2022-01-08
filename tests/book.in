@@ -1,0 +1,17 @@
+location import locations.csv
+flight import flights6.csv
+flight 0 
+flight 0 book 23
+flight 01 book 1
+flight 0 book -1
+flight 0 book 00
+flight 0 book 23.3
+flight 0 book 100
+flight 0 book 100
+flight 0 book 100
+flight 0
+flight 0 reset
+flight 0
+flight 1 book 1000
+flight 1 
+exit

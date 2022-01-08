@@ -1,0 +1,7 @@
+flight remov
+flight remove
+location import locations.csv
+FLIGHT ADD Monday 5:20 Sydney beijing 20
+flight 0 remove
+flight 0 remove
+exit

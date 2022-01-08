@@ -1,0 +1,38 @@
+User: Successfully added location Mumbai.
+
+User: Successfully added location NewDelhi.
+
+User: Successfully added Flight 0.
+
+User: Flight 0
+Departure:    Mon 08:00 Mumbai
+Arrival:      Mon 09:35 NewDelhi
+Distance:     1,139km
+Duration:     1h 35m
+Ticket Cost:  $317.79
+Passengers:   0/120
+
+User: Booked 23 passengers on flight 0 for a total cost of $7041.08
+
+User: Reset passengers booked to 0 for Flight 0, Mon 08:00 Mumbai --> NewDelhi.
+
+User: Flight 0
+Departure:    Mon 08:00 Mumbai
+Arrival:      Mon 09:35 NewDelhi
+Distance:     1,139km
+Duration:     1h 35m
+Ticket Cost:  $317.79
+Passengers:   0/120
+
+User: Booked 120 passengers on flight 0 for a total cost of $36255.03
+Flight is now full.
+
+User: Removed Flight 0, Mon 08:00 Mumbai --> NewDelhi, from the flight schedule.
+
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+(None)
+
+User: Application closed.

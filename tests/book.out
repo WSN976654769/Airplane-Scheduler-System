@@ -1,0 +1,60 @@
+User: Imported 51 locations.
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: Flight 0
+Departure:    Wed 09:00 Sydney
+Arrival:      Wed 21:25 Beijing
+Distance:     8,939km
+Duration:     12h 25m
+Ticket Cost:  $2530.92
+Passengers:   45/280
+
+User: Booked 23 passengers on flight 0 for a total cost of $57233.59
+
+User: Booked 1 passengers on flight 1 for a total cost of $1421.97
+
+User: Invalid number of passengers to book.
+
+User: Booked 0 passengers on flight 0 for a total cost of $0.00
+
+User: Invalid number of passengers to book.
+
+User: Booked 100 passengers on flight 0 for a total cost of $230190.17
+
+User: Booked 100 passengers on flight 0 for a total cost of $279539.52
+
+User: Booked 12 passengers on flight 0 for a total cost of $35333.39
+Flight is now full.
+
+User: Flight 0
+Departure:    Wed 09:00 Sydney
+Arrival:      Wed 21:25 Beijing
+Distance:     8,939km
+Duration:     12h 25m
+Ticket Cost:  $2946.84
+Passengers:   280/280
+
+User: Reset passengers booked to 0 for Flight 0, Wed 09:00 Sydney --> Beijing.
+
+User: Flight 0
+Departure:    Wed 09:00 Sydney
+Arrival:      Wed 21:25 Beijing
+Distance:     8,939km
+Duration:     12h 25m
+Ticket Cost:  $2704.80
+Passengers:   0/280
+
+User: Booked 199 passengers on flight 1 for a total cost of $269000.63
+Flight is now full.
+
+User: Flight 1
+Departure:    Wed 22:25 Beijing
+Arrival:      Thu 05:40 Jakarta
+Distance:     5,224km
+Duration:     7h 15m
+Ticket Cost:  $1549.22
+Passengers:   200/200
+
+User: Application closed.

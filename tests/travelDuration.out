@@ -1,0 +1,62 @@
+User: Imported 51 locations.
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: Legs:             2
+Total Duration:   53h 37m
+Total Cost:       $5074.94
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   5 $ 3399.00 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+LAYOVER 29h 16m at AbuDhabi
+  25 $ 1675.94 Fri 08:00   Fri 15:37   AbuDhabi --> London
+
+User: Legs:             2
+Total Duration:   53h 37m
+Total Cost:       $5074.94
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   5 $ 3399.00 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+LAYOVER 29h 16m at AbuDhabi
+  25 $ 1675.94 Fri 08:00   Fri 15:37   AbuDhabi --> London
+
+User: Legs:             2
+Total Duration:   53h 37m
+Total Cost:       $5074.94
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   5 $ 3399.00 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+LAYOVER 29h 16m at AbuDhabi
+  25 $ 1675.94 Fri 08:00   Fri 15:37   AbuDhabi --> London
+
+Legs:             2
+Total Duration:   64h 37m
+Total Cost:       $5074.94
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   5 $ 3399.00 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+LAYOVER 40h 16m at AbuDhabi
+  26 $ 1675.94 Fri 19:00   Sat 02:37   AbuDhabi --> London
+
+User: Legs:             4
+Total Duration:   194h 45m
+Total Cost:       $8430.91
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 125 $ 3399.00 Fri 14:00   Sat 06:44   Sydney --> AbuDhabi
+LAYOVER 8h 16m at AbuDhabi
+  38 $ 1590.86 Sat 15:00   Sat 22:17   AbuDhabi --> Paris
+LAYOVER 63h 43m at Paris
+  44 $ 1722.81 Tue 14:00   Tue 22:08   Paris --> NewYork
+LAYOVER 82h 52m at NewYork
+ 111 $ 1718.24 Sat 09:00   Sat 16:45   NewYork --> London
+
+User: Invalid sorting property: must be either cost, duration, stopovers, layover, or flight_time.
+
+User: Application closed.

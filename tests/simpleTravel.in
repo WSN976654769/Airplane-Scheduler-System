@@ -1,0 +1,12 @@
+location import locations.csv
+location import locations4.csv
+flight import flights6.csv
+travel sydney london
+travel sydney london 4
+travel sydney london layover
+travel sydney london stopovers
+travel beijing london cost
+travel beijing duration
+travel beijing london duration
+travel beijing london duration 5
+exit

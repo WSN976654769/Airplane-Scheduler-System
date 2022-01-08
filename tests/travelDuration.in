@@ -1,0 +1,8 @@
+location import locations.csv
+flight import flights6.csv
+travel sydney london duration
+travel sydney london duration -1
+travel sydney london duration 2
+travel sydney london duration 100
+travel sydney london duration abc
+exit

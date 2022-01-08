@@ -1,0 +1,24 @@
+flight
+flight add
+fligth
+FLIGHT ADD Monday 18:00 Sydney Melbourne 120
+location import locations.csv
+FLIGHT ADD Mondy 18:00 Sydney Melbourne 120
+FLIGHT ADD Monday 25:0 Sydney Melbourne 120
+FLIGHT ADD Monday 15:20 Sydney Melbournee 120
+FLIGHT ADD Monday 5:20 Sydney beijing -120
+FLIGHT ADD Monday 5:20 Sydney beijing 20
+FLIGHT ADD Monday 5:20 Sydney beijing 20
+FLIGHT ADD Tuesday 15:20 Sydney beijing 20 0
+FLIGHT ADD wednesday 15:20 beijing beijing 20 
+FLIGHT ADD Tuesday 1:20 Sydney beijing 20 
+FLIGHT ADD Wednesday 1:20 Sydney beijing 20 0
+FLIGHT ADD Thursday 1:20 Sydney beijing 20 0
+FLIGHT ADD Friday 1:20 Sydney beijing 20 0
+FLIGHT ADD Saturday 1:20 Sydney beijing 20 0
+flights
+flight export flights0.csv
+FLIGHT ADD Saturday 1:20 Sydney beijin 20 0
+FLIGHT ADD Saturday 1:20 Sydney beidajin 20 0
+FLIGHT ADD Saturday 1:20 Sydney beiasdjin 20 0
+exit

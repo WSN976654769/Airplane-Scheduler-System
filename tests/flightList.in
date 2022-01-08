@@ -1,0 +1,9 @@
+flight import flights.csv
+location import locations.csv
+locations
+flights import flights.csv
+flight import flights.csv
+flights
+flight 0
+flight 1
+exit

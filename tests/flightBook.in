@@ -1,0 +1,12 @@
+flight bok
+flight book
+flight 0 book
+location import locations.csv
+FLIGHT ADD Monday 5:20 Sydney beijing 20
+flight 0 bok
+flight 0 book
+flight 0 book -20 
+flight 0 book 200
+flight 0 book 200
+flight 0 book abs
+exit

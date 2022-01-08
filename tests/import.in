@@ -1,0 +1,12 @@
+flight import flight.cs
+flight import flights.csv
+location import locatio.csv
+location import locations.csv
+flight import flights6.csv
+location import locations.csv
+location import locatio.csv
+flight import fligs.csv
+location import locations4.csv
+location export locationss.csv
+flight export flightss.csv
+exit

@@ -1,0 +1,47 @@
+User: Imported 51 locations.
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: Sydney
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 103 Mon 13:33   Arrival from AbuDhabi
+ 160 Tue 02:38   Arrival from AliceSprings
+  99 Tue 08:27   Arrival from Hobart
+ 152 Wed 15:23   Arrival from Dubbo
+ 151 Wed 20:14   Arrival from Orange
+   6 Thu 04:44   Arrival from AbuDhabi
+   3 Thu 11:11   Arrival from Hanoi
+
+User: Perth
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+ 156 Mon 17:52   Arrival from AliceSprings
+ 113 Sat 08:31   Arrival from Sydney
+ 114 Sat 10:31   Arrival from Sydney
+ 112 Sat 13:31   Arrival from Sydney
+
+User: Beijing
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+   0 Wed 21:25   Arrival from Sydney
+  24 Fri 18:16   Arrival from AbuDhabi
+ 127 Fri 21:53   Arrival from Vladivostok
+
+User: This location does not exist in the system.
+
+User: This location does not exist in the system.
+
+User: Beijing
+-------------------------------------------------------
+ID   Time        Departure/Arrival to/from Location
+-------------------------------------------------------
+   0 Wed 21:25   Arrival from Sydney
+  24 Fri 18:16   Arrival from AbuDhabi
+ 127 Fri 21:53   Arrival from Vladivostok
+
+User: Application closed.

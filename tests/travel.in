@@ -1,0 +1,12 @@
+travel
+travel sydney beijing
+location import locations.csv
+flight import flights6.csv
+travel sydney xx
+travel xx beijing
+travel sydney beijing
+travel sydney beijing 100
+travel sydney sydney
+travel sydney beijing cost 
+travel sydney beijing cost 20
+exit

@@ -1,0 +1,76 @@
+User: Imported 51 locations.
+
+User: Successfully added Flight 0.
+
+User: Successfully added Flight 1.
+
+User: Flight 0
+Departure:    Wed 06:00 Sydney
+Arrival:      Wed 10:31 Perth
+Distance:     3,254km
+Duration:     4h 31m
+Ticket Cost:  $989.16
+Passengers:   0/180
+
+User: Booked 20 passengers on flight 0 for a total cost of $19365.60
+
+User: Booked 20 passengers on flight 0 for a total cost of $18486.35
+
+User: Booked 20 passengers on flight 0 for a total cost of $17607.09
+
+User: Invalid command. Type 'help' for a list of commands.
+
+User: Invalid command. Type 'help' for a list of commands.
+
+User: Booked 100 passengers on flight 1 for a total cost of $88381.66
+
+User: Flight 0
+Departure:    Wed 06:00 Sydney
+Arrival:      Wed 10:31 Perth
+Distance:     3,254km
+Duration:     4h 31m
+Ticket Cost:  $857.27
+Passengers:   60/180
+
+User: Flight 1
+Departure:    Wed 08:00 Sydney
+Arrival:      Wed 12:31 Perth
+Distance:     3,254km
+Duration:     4h 31m
+Ticket Cost:  $846.28
+Passengers:   100/180
+
+User: Successfully added Flight 2.
+
+User: Invalid command. Type 'help' for a list of commands.
+
+User: Flight 2
+Departure:    Wed 11:31 Perth
+Arrival:      Wed 23:03 Johannesburg
+Distance:     8,303km
+Duration:     11h 32m
+Ticket Cost:  $2163.44
+Passengers:   0/230
+
+User: Successfully added Flight 3.
+
+User: Successfully added Flight 4.
+
+User: Invalid departure time. Use the format <day_of_week> <hour:minute>, with 24h time.
+
+User: Successfully added Flight 5.
+
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+   0 Wed 06:00   Wed 10:31   Sydney --> Perth
+   1 Wed 08:00   Wed 12:31   Sydney --> Perth
+   2 Wed 11:31   Wed 23:03   Perth --> Johannesburg
+   3 Thu 01:00   Thu 13:36   Johannesburg --> London
+   4 Fri 01:00   Fri 13:36   Johannesburg --> London
+   5 Sat 01:00   Sat 13:36   Johannesburg --> London
+
+User: Exported 6 flights.
+
+User: Application closed.

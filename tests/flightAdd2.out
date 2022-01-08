@@ -1,0 +1,36 @@
+User: Successfully added location Berlin.
+
+User: Successfully added location NewYork.
+
+User: Successfully added Flight 0.
+
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+   0 Sun 20:00   Mon 04:52   Berlin --> NewYork
+
+User: Flight 0
+Departure:    Sun 20:00 Berlin
+Arrival:      Mon 04:52 NewYork
+Distance:     6,387km
+Duration:     8h 52m
+Ticket Cost:  $1636.01
+Passengers:   0/250
+
+User: Scheduling conflict! This flight clashes with Flight 0 arriving at NewYork on Monday 04:52.
+
+User: Imported 49 locations.
+2 lines were invalid.
+
+User: Successfully added Flight 1.
+
+User: Successfully added Flight 2.
+
+User: Successfully added Flight 3.
+
+User: Successfully added Flight 4.
+
+User: Invalid number of passengers to book.
+
+User: Application closed.

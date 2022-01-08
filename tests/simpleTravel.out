@@ -1,0 +1,143 @@
+User: Imported 51 locations.
+
+User: Imported 2 locations.
+
+User: Imported 182 flights.
+
+User: Legs:             3
+Total Duration:   34h 36m
+Total Cost:       $5172.49
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   5 $ 3399.00 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+LAYOVER 1h 16m at AbuDhabi
+  10 $ 1384.44 Thu 04:00   Thu 11:11   AbuDhabi --> Oslo
+LAYOVER 7h 49m at Oslo
+  20 $  389.05 Thu 19:00   Thu 20:36   Oslo --> London
+
+User: Invalid sorting property: must be either cost, duration, stopovers, layover, or flight_time.
+
+User: Legs:             3
+Total Duration:   34h 36m
+Total Cost:       $5172.49
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   5 $ 3399.00 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+LAYOVER 1h 16m at AbuDhabi
+  10 $ 1384.44 Thu 04:00   Thu 11:11   AbuDhabi --> Oslo
+LAYOVER 7h 49m at Oslo
+  20 $  389.05 Thu 19:00   Thu 20:36   Oslo --> London
+
+User: Legs:             2
+Total Duration:   53h 37m
+Total Cost:       $5074.94
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   5 $ 3399.00 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+LAYOVER 29h 16m at AbuDhabi
+  25 $ 1675.94 Fri 08:00   Fri 15:37   AbuDhabi --> London
+
+User: Legs:             4
+Total Duration:   209h 12m
+Total Cost:       $5177.32
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   1 $ 1421.97 Wed 22:25   Thu 05:40   Beijing --> Jakarta
+LAYOVER 113h 20m at Jakarta
+ 141 $ 1516.55 Mon 23:00   Tue 05:29   Jakarta --> Mumbai
+LAYOVER 61h 1m at Mumbai
+ 117 $  562.85 Thu 18:30   Thu 21:16   Mumbai --> AbuDhabi
+LAYOVER 10h 44m at AbuDhabi
+  25 $ 1675.94 Fri 08:00   Fri 15:37   AbuDhabi --> London
+
+User: Ending location not found.
+
+User: Legs:             4
+Total Duration:   209h 12m
+Total Cost:       $5177.32
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   1 $ 1421.97 Wed 22:25   Thu 05:40   Beijing --> Jakarta
+LAYOVER 113h 20m at Jakarta
+ 141 $ 1516.55 Mon 23:00   Tue 05:29   Jakarta --> Mumbai
+LAYOVER 61h 1m at Mumbai
+ 117 $  562.85 Thu 18:30   Thu 21:16   Mumbai --> AbuDhabi
+LAYOVER 10h 44m at AbuDhabi
+  25 $ 1675.94 Fri 08:00   Fri 15:37   AbuDhabi --> London
+
+User: Legs:             4
+Total Duration:   209h 12m
+Total Cost:       $5177.32
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   1 $ 1421.97 Wed 22:25   Thu 05:40   Beijing --> Jakarta
+LAYOVER 113h 20m at Jakarta
+ 141 $ 1516.55 Mon 23:00   Tue 05:29   Jakarta --> Mumbai
+LAYOVER 61h 1m at Mumbai
+ 117 $  562.85 Thu 18:30   Thu 21:16   Mumbai --> AbuDhabi
+LAYOVER 10h 44m at AbuDhabi
+  25 $ 1675.94 Fri 08:00   Fri 15:37   AbuDhabi --> London
+
+Legs:             4
+Total Duration:   220h 12m
+Total Cost:       $5177.32
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   1 $ 1421.97 Wed 22:25   Thu 05:40   Beijing --> Jakarta
+LAYOVER 113h 20m at Jakarta
+ 141 $ 1516.55 Mon 23:00   Tue 05:29   Jakarta --> Mumbai
+LAYOVER 61h 1m at Mumbai
+ 117 $  562.85 Thu 18:30   Thu 21:16   Mumbai --> AbuDhabi
+LAYOVER 21h 44m at AbuDhabi
+  26 $ 1675.94 Fri 19:00   Sat 02:37   AbuDhabi --> London
+
+Legs:             4
+Total Duration:   264h 12m
+Total Cost:       $5177.32
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   1 $ 1421.97 Wed 22:25   Thu 05:40   Beijing --> Jakarta
+LAYOVER 113h 20m at Jakarta
+ 141 $ 1516.55 Mon 23:00   Tue 05:29   Jakarta --> Mumbai
+LAYOVER 61h 1m at Mumbai
+ 117 $  562.85 Thu 18:30   Thu 21:16   Mumbai --> AbuDhabi
+LAYOVER 65h 44m at AbuDhabi
+  39 $ 1675.94 Sun 15:00   Sun 22:37   AbuDhabi --> London
+
+Legs:             4
+Total Duration:   377h 12m
+Total Cost:       $5177.32
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   1 $ 1421.97 Wed 22:25   Thu 05:40   Beijing --> Jakarta
+LAYOVER 113h 20m at Jakarta
+ 141 $ 1516.55 Mon 23:00   Tue 05:29   Jakarta --> Mumbai
+LAYOVER 78h 31m at Mumbai
+ 133 $  562.85 Fri 12:00   Fri 14:46   Mumbai --> AbuDhabi
+LAYOVER 161h 14m at AbuDhabi
+  25 $ 1675.94 Fri 08:00   Fri 15:37   AbuDhabi --> London
+
+Legs:             4
+Total Duration:   220h 12m
+Total Cost:       $5177.32
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   1 $ 1421.97 Wed 22:25   Thu 05:40   Beijing --> Jakarta
+LAYOVER 113h 20m at Jakarta
+ 141 $ 1516.55 Mon 23:00   Tue 05:29   Jakarta --> Mumbai
+LAYOVER 78h 31m at Mumbai
+ 133 $  562.85 Fri 12:00   Fri 14:46   Mumbai --> AbuDhabi
+LAYOVER 4h 14m at AbuDhabi
+  26 $ 1675.94 Fri 19:00   Sat 02:37   AbuDhabi --> London
+
+User: Application closed.

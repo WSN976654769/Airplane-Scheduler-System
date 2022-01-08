@@ -1,0 +1,68 @@
+User: Imported 51 locations.
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: Legs:             3
+Total Duration:   34h 36m
+Total Cost:       $5172.49
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   5 $ 3399.00 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+LAYOVER 1h 16m at AbuDhabi
+  10 $ 1384.44 Thu 04:00   Thu 11:11   AbuDhabi --> Oslo
+LAYOVER 7h 49m at Oslo
+  20 $  389.05 Thu 19:00   Thu 20:36   Oslo --> London
+
+User: Legs:             3
+Total Duration:   34h 36m
+Total Cost:       $5172.49
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   5 $ 3399.00 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+LAYOVER 1h 16m at AbuDhabi
+  10 $ 1384.44 Thu 04:00   Thu 11:11   AbuDhabi --> Oslo
+LAYOVER 7h 49m at Oslo
+  20 $  389.05 Thu 19:00   Thu 20:36   Oslo --> London
+
+User: Legs:             3
+Total Duration:   34h 36m
+Total Cost:       $5172.49
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   5 $ 3399.00 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+LAYOVER 1h 16m at AbuDhabi
+  10 $ 1384.44 Thu 04:00   Thu 11:11   AbuDhabi --> Oslo
+LAYOVER 7h 49m at Oslo
+  20 $  389.05 Thu 19:00   Thu 20:36   Oslo --> London
+
+Legs:             2
+Total Duration:   53h 37m
+Total Cost:       $5074.94
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   5 $ 3399.00 Wed 10:00   Thu 02:44   Sydney --> AbuDhabi
+LAYOVER 29h 16m at AbuDhabi
+  25 $ 1675.94 Fri 08:00   Fri 15:37   AbuDhabi --> London
+
+User: Legs:             4
+Total Duration:   486h 36m
+Total Cost:       $5655.23
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 125 $ 3399.00 Fri 14:00   Sat 06:44   Sydney --> AbuDhabi
+LAYOVER 149h 16m at AbuDhabi
+   8 $ 1366.33 Fri 12:00   Fri 17:59   AbuDhabi --> Rome
+LAYOVER 154h 1m at Rome
+  12 $  500.86 Fri 04:00   Fri 06:47   Rome --> Oslo
+LAYOVER 156h 13m at Oslo
+  20 $  389.05 Thu 19:00   Thu 20:36   Oslo --> London
+
+User: Invalid sorting property: must be either cost, duration, stopovers, layover, or flight_time.
+
+User: Application closed.

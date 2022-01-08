@@ -1,0 +1,48 @@
+User: Usage: TRAVEL <from> <to> [cost/duration/stopovers/layover/flight_time]
+
+User: Starting location not found.
+
+User: Imported 51 locations.
+
+User: Imported 169 flights.
+13 lines were invalid.
+
+User: Ending location not found.
+
+User: Starting location not found.
+
+User: Legs:             1
+Total Duration:   12h 25m
+Total Cost:       $2530.92
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   0 $ 2530.92 Wed 09:00   Wed 21:25   Sydney --> Beijing
+
+User: Invalid sorting property: must be either cost, duration, stopovers, layover, or flight_time.
+
+User: Sorry, no flights with 3 or less stopovers are available from Sydney to Sydney.
+
+User: Legs:             1
+Total Duration:   12h 25m
+Total Cost:       $2530.92
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+   0 $ 2530.92 Wed 09:00   Wed 21:25   Sydney --> Beijing
+
+User: Legs:             4
+Total Duration:   324h 16m
+Total Cost:       $7057.87
+-------------------------------------------------------------
+ID   Cost      Departure   Arrival     Source --> Destination
+-------------------------------------------------------------
+ 114 $  989.16 Sat 06:00   Sat 10:31   Sydney --> Perth
+LAYOVER 37h 29m at Perth
+ 132 $ 2163.44 Mon 00:00   Mon 11:32   Perth --> Johannesburg
+LAYOVER 132h 58m at Johannesburg
+ 105 $ 1999.12 Sun 00:30   Sun 09:14   Johannesburg --> AbuDhabi
+LAYOVER 120h 46m at AbuDhabi
+  24 $ 1906.15 Fri 10:00   Fri 18:16   AbuDhabi --> Beijing
+
+User: Application closed.

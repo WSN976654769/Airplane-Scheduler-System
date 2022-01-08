@@ -1,0 +1,8 @@
+location import locations.csv
+flight import flights6.csv
+travel sydney london cost
+travel sydney london cost -1
+travel sydney london cost 2
+travel sydney london cost 100
+travel sydney london cost abc
+exit

@@ -1,0 +1,22 @@
+location import locations.csv
+flight add wednesday 6:00 sydney perth 180
+flight add wednesday 8:00 sydney perth 180
+flight 0
+flight 0 book 20
+flight 0 book 20
+flight 0 book 20
+fligh1 book 100
+fligh 1 book 100
+flight 1 book 100
+flight 0
+flight 1
+flight add wednesday 11:31 perth johannesburg 230
+fligh 2
+flight 2
+flight add thursday 01:00 johannesburg London 220
+flight add friday 01:00 johannesburg London 220
+flight add satursday 01:00 johannesburg London 220
+flight add saturday 01:00 johannesburg London 220
+flights
+flight export flights3.csv
+exit

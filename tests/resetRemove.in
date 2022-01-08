@@ -1,0 +1,11 @@
+location add Mumbai 19.08 72.741 0.4
+location add NewDelhi 28.527 77.0688988 -0.123
+flight add monday 08:00 mumbai newdelhi 120
+flight 0
+flight 0 book 23
+flight 0 reset
+flight 0
+flight 0 book 130
+flight 0 remove
+flights
+exit

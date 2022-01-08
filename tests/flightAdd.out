@@ -1,0 +1,61 @@
+User: Usage:
+FLIGHT <id> [BOOK/REMOVE/RESET] [num]
+FLIGHT ADD <departure time> <from> <to> <capacity>
+FLIGHT IMPORT/EXPORT <filename>
+
+User: Usage:   FLIGHT ADD <departure time> <from> <to> <capacity>
+Example: FLIGHT ADD Monday 18:00 Sydney Melbourne 120
+
+User: Invalid command. Type 'help' for a list of commands.
+
+User: Invalid starting location.
+
+User: Imported 51 locations.
+
+User: Invalid departure time. Use the format <day_of_week> <hour:minute>, with 24h time.
+
+User: Invalid departure time. Use the format <day_of_week> <hour:minute>, with 24h time.
+
+User: Invalid ending location.
+
+User: Invalid positive integer capacity.
+
+User: Successfully added Flight 0.
+
+User: Scheduling conflict! This flight clashes with Flight 0 departing from Sydney on Monday 05:20.
+
+User: Successfully added Flight 1.
+
+User: Source and destination cannot be the same place.
+
+User: Successfully added Flight 2.
+
+User: Successfully added Flight 3.
+
+User: Successfully added Flight 4.
+
+User: Successfully added Flight 5.
+
+User: Successfully added Flight 6.
+
+User: Flights
+-------------------------------------------------------
+ID   Departure   Arrival     Source --> Destination
+-------------------------------------------------------
+   0 Mon 05:20   Mon 17:45   Sydney --> Beijing
+   2 Tue 01:20   Tue 13:45   Sydney --> Beijing
+   1 Tue 15:20   Wed 03:45   Sydney --> Beijing
+   3 Wed 01:20   Wed 13:45   Sydney --> Beijing
+   4 Thu 01:20   Thu 13:45   Sydney --> Beijing
+   5 Fri 01:20   Fri 13:45   Sydney --> Beijing
+   6 Sat 01:20   Sat 13:45   Sydney --> Beijing
+
+User: Exported 7 flights.
+
+User: Invalid ending location.
+
+User: Invalid ending location.
+
+User: Invalid ending location.
+
+User: Application closed.

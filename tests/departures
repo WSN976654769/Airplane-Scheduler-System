@@ -1,0 +1,9 @@
+location import locations.csv
+flight import flights6.csv
+departures sydney
+departures perth
+departures beijing
+departures
+departures asd
+departures beijing perth
+exit

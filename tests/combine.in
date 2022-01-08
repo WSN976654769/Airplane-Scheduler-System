@@ -1,0 +1,20 @@
+location import locations.csv
+locations
+flight import flights6.csv
+location import locations4.csv
+flights
+locations
+schedule Moscow
+departures Moscow
+arrivals Moscow
+schedule Washington
+schedule Berlin
+Flight add Sunday 20:49 AbuDhabi Sydney 120
+Flight add Sunday 20:49 AbuDhabi Syy 120
+Flight add Sunday 20:49 AbuDhabi Sydney -120
+Flight add Sunday 20:49 AbuDhabi AbuDhabi 1
+travel AbuDhabi Beijing layover 9
+travel AbuDhabi Beijing cost 9
+travel AbuDhabi Beijing duration 8
+travel AbuDhabi Beijing flight_time 3
+exit

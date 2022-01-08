@@ -1,0 +1,32 @@
+User: Invalid Flight ID.
+
+User: Invalid Flight ID.
+
+User: Imported 51 locations.
+
+User: Successfully added Flight 0.
+
+User: Booked 20 passengers on flight 0 for a total cost of $51315.05
+Flight is now full.
+
+User: Flight 0
+Departure:    Mon 05:20 Sydney
+Arrival:      Mon 17:45 Beijing
+Distance:     8,939km
+Duration:     12h 25m
+Ticket Cost:  $2946.84
+Passengers:   20/20
+
+User: Reset passengers booked to 0 for Flight 0, Mon 05:20 Sydney --> Beijing.
+
+User: Flight 0
+Departure:    Mon 05:20 Sydney
+Arrival:      Mon 17:45 Beijing
+Distance:     8,939km
+Duration:     12h 25m
+Ticket Cost:  $2704.80
+Passengers:   0/20
+
+User: Reset passengers booked to 0 for Flight 0, Mon 05:20 Sydney --> Beijing.
+
+User: Application closed.

@@ -1,0 +1,9 @@
+location import locations.csv
+flight import flights6.csv
+schedule sydney
+schedule perth
+schedule beijing
+schedule
+schedule asd
+schedule beijing perth
+exit
