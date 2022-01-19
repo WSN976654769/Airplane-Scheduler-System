@@ -75,4 +75,5 @@ Flights and locations are to be imported in the order they are given in the file
 Export should write to the file flights in the order of their flight id, and locations in the order of their name.  
 Flights csv has the following format: day time,startLocation,endLocation,capacity,booked.  
 Locations csv has the following format: locationName,latitude,longitude,demandCoefficient.  
+ 
   
